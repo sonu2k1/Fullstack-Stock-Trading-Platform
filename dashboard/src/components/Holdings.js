@@ -8,7 +8,7 @@ const Holdings = () => {
   const [allHoldings, setAllHoldings] = useState([]);
 
   useEffect(() => {
-    axios.get("https://creative-toffee-7ef474.netlify.app/allHoldings").then((res) => {
+    axios.get("https://fullstack-stock-trading-platform-h2dg.vercel.app/?vercelToolbarCode=7TUPzUHUM8Lgeq5/allHoldings").then((res) => {
       // console.log(res.data);
       setAllHoldings(res.data);
     });
