@@ -9,7 +9,7 @@ const Positions = () => {
   const [allPositions, setAllPositions] = useState([]);
 
   useEffect(() => {
-    axios.get("https://creative-toffee-7ef474.netlify.app/allPositions").then((res) => {
+    axios.get("https://fullstack-stock-trading-platform-h2dg.vercel.app/?vercelToolbarCode=7TUPzUHUM8Lgeq5/allPositions").then((res) => {
       // console.log(res.data);
       setAllPositions(res.data);
     });
