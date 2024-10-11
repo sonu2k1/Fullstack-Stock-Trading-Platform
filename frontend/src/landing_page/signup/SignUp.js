@@ -26,8 +26,8 @@ function SignUp() {
   
 </div>
             
-            <a href="http://localhost:3001/">  <button className='p-2 btn btn-primary fs-5 mb-5' style={{margin:"0 auto"}}>Sign up now</button></a>
-            <a href="http://localhost:3001/">  <button className='p-2 btn btn-primary fs-5 mb-5' style={{margin:"0 auto"}}>Create Account</button></a>
+            <a href="https://fullstack-stock-trading-platform.vercel.app/">  <button className='p-2 btn btn-primary fs-5 mb-5' style={{margin:"0 auto"}}>Sign up now</button></a>
+            <a href="https://fullstack-stock-trading-platform.vercel.app/">  <button className='p-2 btn btn-primary fs-5 mb-5' style={{margin:"0 auto"}}>Create Account</button></a>
             
         </div>
 
