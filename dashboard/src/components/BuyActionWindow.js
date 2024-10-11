@@ -12,7 +12,7 @@ const BuyActionWindow = ({ uid }) => {
   const [stockPrice, setStockPrice] = useState(0.0);
 
   const handleBuyClick = () => {
-    axios.post("https://creative-toffee-7ef474.netlify.app/newOrder", {
+    axios.post("https://fullstack-stock-trading-platform-h2dg.vercel.app/?vercelToolbarCode=7TUPzUHUM8Lgeq5/newOrder", {
       name: uid,
       qty: stockQuantity,
       price: stockPrice,
