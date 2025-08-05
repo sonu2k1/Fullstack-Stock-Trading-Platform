@@ -7,7 +7,7 @@ Clone of Zerodha which shows my frontend skills. <br/>
 -A proper MERN stack build Website.<br/>
 
 <h1>Frontend :-</h1>
-- ReactJS
+- ReactJS  <br/>
 -CSS
 -MaterialUI
 -ICONS
