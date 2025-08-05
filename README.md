@@ -8,12 +8,12 @@ Clone of Zerodha which shows my frontend skills. <br/>
 
 <h1>Frontend :-</h1>
 - ReactJS  <br/>
--CSS
--MaterialUI
--ICONS
+- CSS <br/>
+- MaterialUI  <br/>
+- ICONS
 
 <h1>Backend:</h1>
--MongoDB
--Express JS
--Node JS
+- MongoDB
+- Express JS
+- Node JS
 
