@@ -10,7 +10,7 @@ Clone of Zerodha which shows my frontend skills. <br/>
 - ReactJS  <br/>
 - CSS <br/>
 - MaterialUI  <br/>
-- ICONS
+- ICONS   <br/>
 
 <h1>Backend:</h1>
 - MongoDB
