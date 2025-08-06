@@ -13,6 +13,6 @@ Clone of Zerodha which shows my frontend skills. <br/>
 
 <h1>Backend:</h1>
 - MongoDB <br/>
-- Express JS
+- Express JS <br/>
 - Node JS
 
