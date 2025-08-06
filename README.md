@@ -12,7 +12,7 @@ Clone of Zerodha which shows my frontend skills. <br/>
 - MaterialUI  <br/>
 
 <h1>Backend:</h1>
-- MongoDB
+- MongoDB <br/>
 - Express JS
 - Node JS
 
