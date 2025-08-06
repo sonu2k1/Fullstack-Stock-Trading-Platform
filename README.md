@@ -9,6 +9,7 @@ Clone of Zerodha which shows my frontend skills. <br/>
 <h1>Frontend :-</h1>
 - ReactJS  <br/>
 - CSS <br/>
+-JavaScript <br/>
 - MaterialUI  <br/>
 
 <h1>Backend:</h1>
